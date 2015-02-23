@@ -1,0 +1,22 @@
+{
+  "version": "0.1",
+  "name": "Guess What",
+  "description": "Guess what is depicted",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/guess_what-16.png",
+    "32": "/img/icons/guess_what-32.png",
+    "48": "/img/icons/guess_what-48.png",
+    "60": "/img/icons/guess_what-60.png",
+    "64": "/img/icons/guess_what-64.png",
+    "90": "/img/icons/guess_what-90.png",
+    "120": "/img/icons/guess_what-120.png",
+    "128": "/img/icons/guess_what-128.png",
+    "256": "/img/icons/guess_what-256.png"
+  },
+  "developer": {
+    "name": "Oliver Merkel",
+    "url": "https://github.com/OMerkel/GuessWhat"
+  },
+  "installs_allowed_from": ["*"]
+}
