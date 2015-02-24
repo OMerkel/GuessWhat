@@ -1,6 +1,7 @@
 
 var ALLIMAGES = [
-  'loeffel', 'reissverschluss', 'springer'
+  'loeffel', 'pinienzapfen', 'reissverschluss',
+  'gluehbirnenfassung', 'springer'
 ], images;
 
 var ALLTILES = [
