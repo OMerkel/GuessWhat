@@ -5,6 +5,8 @@
 
 Another Guessing Game - What is depicted?
 
+<b>Keywords</b> <em>Quiz, Visual Guessing Game, HTML5/Javascript, Offline Appcache Support / <a href="http://www.w3.org/TR/2011/WD-html5-20110525/offline.html">Offline Web application HTML5</a>, Safari Apple-mobile-web-app support</em>
+
 <h3>Rules</h3>
 <p><em>Guess what?</em> implements a visual guessing game.
   Jigsaw hex-shaped tiles are revealed step by step while
