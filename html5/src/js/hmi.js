@@ -1,8 +1,9 @@
 
 var ALLIMAGES = [
   'feuerzeug', 'zitrone', 'loeffel', 'glasmurmel', 'pinienzapfen',
-  'bleistift', 'reissverschluss', 'flaschenkorken', 'gluehbirnenfassung', 'streichhoelzer',
-  'reisszwecke', 'springer', 'nagelknipser', 'pinsel'
+  'bleistift', 'reissverschluss', 'flaschenkorken', 'gluehbirnenfassung', 'prisma',
+  'streichhoelzer', 'reisszwecke', 'golfball', 'springer', 'nagelknipser',
+  'pinsel'
 ], images;
 
 var ALLTILES = [
