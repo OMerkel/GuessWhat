@@ -2,6 +2,7 @@
 =========
 
 * _Start an online_ __Guess what?__ _session on_ http://omerkel.github.io/GuessWhat/html5/src
+* <em>Also published in</em> <a href="https://marketplace.firefox.com/app/guess-what"><img align="middle" width="150px" src="https://marketplace.cdn.mozilla.net/media/fireplace/img/pretty/marketplace_logo.png" /></a>
 
 Another Guessing Game - What is depicted?
 
