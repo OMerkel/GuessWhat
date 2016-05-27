@@ -1,19 +1,18 @@
 {
-  "version": "0.1",
+  "version": "0.2",
   "name": "Guess What",
   "description": "Guess what is depicted",
   "launch_path": "/GuessWhat/html5/src/index.html",
-  "appcache_path": "/GuessWhat/html5/src/offline.appcache",
   "icons": {
-    "16": "/GuessWhat/html5/src/img/icons/guess_what-16.png",
-    "32": "/GuessWhat/html5/src/img/icons/guess_what-32.png",
-    "48": "/GuessWhat/html5/src/img/icons/guess_what-48.png",
-    "60": "/GuessWhat/html5/src/img/icons/guess_what-60.png",
-    "64": "/GuessWhat/html5/src/img/icons/guess_what-64.png",
-    "90": "/GuessWhat/html5/src/img/icons/guess_what-90.png",
-    "120": "/GuessWhat/html5/src/img/icons/guess_what-120.png",
-    "128": "/GuessWhat/html5/src/img/icons/guess_what-128.png",
-    "256": "/GuessWhat/html5/src/img/icons/guess_what-256.png"
+    "16": "/GuessWhat/html5/src/img/icons/guesswhat16.png",
+    "32": "/GuessWhat/html5/src/img/icons/guesswhat32.png",
+    "48": "/GuessWhat/html5/src/img/icons/guesswhat48.png",
+    "60": "/GuessWhat/html5/src/img/icons/guesswhat60.png",
+    "64": "/GuessWhat/html5/src/img/icons/guesswhat64.png",
+    "90": "/GuessWhat/html5/src/img/icons/guesswhat90.png",
+    "120": "/GuessWhat/html5/src/img/icons/guesswhat120.png",
+    "128": "/GuessWhat/html5/src/img/icons/guesswhat128.png",
+    "256": "/GuessWhat/html5/src/img/icons/guesswhat256.png"
   },
   "developer": {
     "name": "Oliver Merkel",

@@ -184,6 +184,7 @@ function solve() {
     var t = tile.splice( 0, 1 )[0];
     $(t).hide();
   }
+  $( '#left-panel' ).panel( 'close' );
 }
 
 function next() {
@@ -200,6 +201,7 @@ function next() {
       'background-size': '100% auto',
     });
   }
+  $( '#left-panel' ).panel( 'close' );
 }
 
 function start() {
