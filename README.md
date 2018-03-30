@@ -2,7 +2,6 @@
 =========
 
 * <em>Start an online</em> <b>Guess what?</b> <em>session on</em> http://omerkel.github.io/GuessWhat/html5/src
-* <em>Also published in</em> <a href="https://marketplace.firefox.com/app/guess-what"><img align="middle" width="150px" src="https://marketplace.cdn.mozilla.net/media/fireplace/img/pretty/marketplace_logo.png" /></a>
 * <em>Android APK available for install</em> <img align="top" width="32" src="res/android.gif" /> https://github.com/OMerkel/GuessWhat/releases/tag/release_0.2
     * requires minimum Android 4.4.2 (API-19)
 * <em>Runs in various browsers on</em>
